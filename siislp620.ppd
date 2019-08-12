@@ -29,7 +29,7 @@
 *cupsVersion: 1.5
 *cupsModelNumber: 293
 *cupsManualCopies: False
-*cupsFilter: "application/vnd.cups-raster 0 /usr/libexec/cups/filter/seikoslp.rastertolabel"
+*cupsFilter: "application/vnd.cups-raster 0 /Library/Printers/SII/rastertosiislp.app/Contents/MacOS/rastertosiislp"
 *cupsLanguages: "en"
 *OpenUI *PageSize/Media Size: PickOne
 *OrderDependency: 10 AnySetup *PageSize
